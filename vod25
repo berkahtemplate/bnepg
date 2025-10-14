@@ -1,4 +1,9 @@
 #EXTM3U url=""
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://abysscdn.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://abysscdn.com/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="",TEST (2025)
+https://storage.googleapis.com/mediastorage/915d8c64-a132-4183-8d03-20288df59d9e.mp4/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7drYpkNlQjou0x1nyaIt4k7vTwy.jpg",Uncontained (2025)
