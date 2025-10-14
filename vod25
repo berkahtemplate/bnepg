@@ -1,10 +1,10 @@
 #EXTM3U url=""
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://abysscdn.com/
+#EXTVLCOPT:http-referrer=https://abysscdn.com/
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="",TEST (2025)
 https://storage.googleapis.com/mediastorage/1760420013874/28eojmep88d/722950554.mp4
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://abysscdn.com/
+#EXTVLCOPT:http-referrer=https://abysscdn.com/
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="",TEST 2 (2025)
 https://storage.googleapis.com/mediastorage/1760424738088/rnq4bvg55at/417749806.mp4
 
