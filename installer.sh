@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## setup command=wget -q --no-check-certificate https://raw.githubusercontent.com/Belfagor2005/StalkerPortalConverter/main/installer.sh -O - | /bin/sh
+## setup command=wget -q --no-check-certificate https://github.com/berkahtemplate/bnepg/raw/refs/heads/main/installer.sh -O - | /bin/sh
 
 ## Only These 2 lines to edit with new version ######
 version='1.6'
