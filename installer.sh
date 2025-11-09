@@ -47,7 +47,7 @@ if ! command -v wget >/dev/null 2>&1; then
 fi
 
 # Detect Python version
-if python --version 2>&1 | grep -q '^python3\.'; then
+if python3 --version 2>&1 | grep -q '^Python 3\.'; then
     echo "Python3 image detected"
     PYTHON=PY3
     Packagerequests=python3-requests
