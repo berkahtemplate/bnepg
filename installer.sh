@@ -91,7 +91,7 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-tar -xzf "$FILEPATH"
+tar -xzvf "$FILEPATH"
 if [ $? -ne 0 ]; then
     echo "Failed to extract StalkerPortalConverter package!"
     exit 1
