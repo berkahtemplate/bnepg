@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 1
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903770&extension=m3u8
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 1 BACKUP
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032529&extension=m3u8&play_token=
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 2
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032528&extension=m3u8&play_token=
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 3
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032527&extension=m3u8&play_token=
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 4
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032526&extension=m3u8&play_token=
+#EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 5
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032525&extension=m3u8&play_token=
