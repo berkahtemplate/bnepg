@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 1-1
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903770&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903770&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 2-1
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903769&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903769&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 3-1
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903768&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903768&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 4-1
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903767&extension=m3u8&
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1903767&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 5-1
-http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032525&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032525&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 1-2
-http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032529&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032529&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 2-2
-http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032528&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032528&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 3-2
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=827982&extension=m3u8
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=827982&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 4-2
-http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032526&extension=m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032526&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 5-2
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0D:9B:6D&stream=1309859&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0D:9B:6D&stream=1309859&extension=m3u8&play_token=
