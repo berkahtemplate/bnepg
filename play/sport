@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier1.m3u8
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=827982&extension=m3u8
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier2.m3u8
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032529&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier3.m3u8
+http://trendystream.me:80/play/live.php?mac=00:1A:79:A9:2F:DD&stream=1032527&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier4.m3u8
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032526&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB PREMIER 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier5.m3u8
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:00:DD:E3&stream=1032525&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB SPORT 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280822&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB SPORT 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280828&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB SPORT 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280829&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB SPORT 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-4-1.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280825&extension=m3u8&play_token=
 #EXTINF:-1  tvg-id="" group-title="SPORTS",HUB SPORT 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-5-1.m3u8
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280831&extension=m3u8&play_token=
